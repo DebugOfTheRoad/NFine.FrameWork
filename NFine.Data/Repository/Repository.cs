@@ -6,7 +6,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace NFine.Data.Repository
+namespace NFine.Data
 {
     public class Repository : IRepository
     {
